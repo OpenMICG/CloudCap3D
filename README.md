@@ -1,5 +1,5 @@
 # CloudCap3D: Enhancing 3D In-Scene Descriptions via Point Cloud Integration and Efficient Text Filtering
-![hrc7u-k1v2r](https://github.com/user-attachments/assets/87541ed7-8aba-4d62-bcec-5cbd8ba983a8)
+![hrc7u-k1v2r](https://github.com/OpenMICG/CloudCap3D/blob/main/1.pdf)
 
 # Usage
 
