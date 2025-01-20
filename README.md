@@ -8,3 +8,5 @@ You can download CloudCap3D from [here](https://drive.google.com/file/d/1U1Na1bb
 Traditional evaluation metrics often focus narrowly on specific aspects, such as the alignment between a generated 3D object and the corresponding text, which may not accurately reflect human judgments. Recent research has highlighted the potential of using GPT-4V for evaluating text-to-3D object generation tasks, as it offers a more comprehensive assessment that better mirrors human preferences. Building on these findings, we have adopted and
 refined the cue word methodology proposed in previous studies.
 <!--![](https://github.com/NZY7/HelloPrj/blob/master/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-01-20%20165849.png)>
+# Anckowledgement
+This repo is based on [GPT-4](https://openai.com/index/gpt-4/), [CG3D](https://github.com/deeptibhegde/CLIP-goes-3D), [PointLLM](https://github.com/OpenRobotLab/PointLLM), [BLIP2](https://github.com/OpenRobotLab/PointLLM), [GPT-4V](https://github.com/3DTopia/GPTEval3D). We would like to express our gratitude for their outstanding work.
