@@ -4,3 +4,4 @@ The dataset can be used for 3D multimodal tasks.
 ![](https://github.com/NZY7/HelloPrj/blob/master/compare.png)
 # CloudCap3D Download
 You can download CloudCap3D from [CloudCap3D](https://drive.google.com/file/d/1U1Na1bbrDP1hli3LzZAAFkn6XwfkC9L3/view?usp=sharing)
+# Evaluation metric
